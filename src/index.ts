@@ -1,5 +1,5 @@
 import { Component } from "./core/component";
-import { Data } from "./core/Data";
+import { Data } from "./core/data/Data";
 import { select } from "./core/select";
 
 (function () {
